@@ -54,7 +54,7 @@ This Spring Boot application exposes a REST API that allows users to retrieve **
 This application can be run locally using the following command:
 
 ```bash
-git clone https://github.com/your-username/github-repo-api.git
+git clone https://github.com/BiveGpe/Java-AtiperaRecruitmentTask.git
 cd github-repo-api
 ./mvnw clean install
 ./mvnw spring-boot:run
