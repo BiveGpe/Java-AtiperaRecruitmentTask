@@ -55,7 +55,7 @@ This application can be run locally using the following command:
 
 ```bash
 git clone https://github.com/BiveGpe/Java-AtiperaRecruitmentTask.git
-cd github-repo-api
+cd Java-AtiperaRecruitmentTask
 ./mvnw clean install
 ./mvnw spring-boot:run
 ```
